@@ -23,7 +23,7 @@ mvn package
 
 ## References
 
-[1] Alspaugh, Thomas A., Hazeline U. Asuncion und Walt Scacchi (2010). Software Licenses in Context: The Challenge of Heterogeneously-Licensed Systems. In: Journal of the Association for Information Systems 11.
+[1] Alspaugh, Thomas A., Hazeline U. Asuncion and Walt Scacchi (2010). Software Licenses in Context: The Challenge of Heterogeneously-Licensed Systems. In: Journal of the Association for Information Systems 11.
 
 [2] Kapitsaki, Georgia M., Frederik Kramer and Nikolaos D. Tselikas (2016). Automating the License Compatibility Process in Open Source Software with SPDX. In: Journal of Systems and Software. DOI: [10.1016/j.jss.2016.06.064](http://dx.doi.org/10.1016/j.jss.2016.06.064).
 
