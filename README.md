@@ -10,6 +10,8 @@ Currently TALC has only limited applicability:
 - Only a limited set of FOSS licenses is recognized by the compatibility analysis, unknown licenses are mapped to a default proprietary license in the graph
 - Only a simple heuristic is used to recover the dependency graph
 - No supported for circular dependencies
+- Creating SPDX documents with linking relationships is currently not supported by most compliance tools
+- No support for multiple SPDX documents per analysis
 
 ## Compiling
 
