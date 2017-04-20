@@ -27,5 +27,4 @@ mvn package
 
 ## License
 
-Copyright 2017 Thomas Ascher
-Licensed under the GNU General Public License v3.0 or higher
+Copyright 2017 Thomas Ascher, licensed under the GNU General Public License v3.0 or higher
