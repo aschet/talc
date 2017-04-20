@@ -1,0 +1,535 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#">
+  <spdx:SpdxDocument rdf:about="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-DOCUMENT">
+    <spdx:dataLicense>
+      <spdx:License rdf:about="http://spdx.org/licenses/CC0-1.0">
+        <spdx:standardLicenseHeader>
+        &lt;p xmlns="http://www.w3.org/1999/xhtml" style="font-style: italic"&gt;There is no standard license header for the license&lt;/p&gt;
+        
+      ^^http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral</spdx:standardLicenseHeader>
+        <spdx:licenseText>Creative Commons CC0 1.0 Universal 
+ CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER. 
+ 
+Statement of Purpose 
+The laws of most jurisdictions throughout the world automatically confer exclusive Copyright and Related Rights (defined below) upon the creator and subsequent owner(s) (each and all, an "owner") of an original work of authorship and/or a database (each, a "Work"). 
+Certain owners wish to permanently relinquish those rights to a Work for the purpose of contributing to a commons of creative, cultural and scientific works ("Commons") that the public can reliably and without fear of later claims of infringement build upon, modify, incorporate in other works, reuse and redistribute as freely as possible in any form whatsoever and for any purposes, including without limitation commercial purposes. These owners may contribute to the Commons to promote the ideal of a free culture and the further production of creative, cultural and scientific works, or to gain reputation or greater distribution for their Work in part through the use and efforts of others. 
+For these and/or other purposes and motivations, and without any expectation of additional consideration or compensation, the person associating CC0 with a Work (the "Affirmer"), to the extent that he or she is an owner of Copyright and Related Rights in the Work, voluntarily elects to apply CC0 to the Work and publicly distribute the Work under its terms, with knowledge of his or her Copyright and Related Rights in the Work and the meaning and intended legal effect of CC0 on those rights. 
+1. Copyright and Related Rights. A Work made available under CC0 may be protected by copyright and related or neighboring rights ("Copyright and Related Rights"). Copyright and Related Rights include, but are not limited to, the following: 
+ i. the right to reproduce, adapt, distribute, perform, display, communicate, and translate a Work; 
+ ii. moral rights retained by the original author(s) and/or performer(s); 
+ iii. publicity and privacy rights pertaining to a person's image or likeness depicted in a Work; 
+ iv. rights protecting against unfair competition in regards to a Work, subject to the limitations in paragraph 4(a), below; 
+ v. rights protecting the extraction, dissemination, use and reuse of data in a Work; 
+ vi. database rights (such as those arising under Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, and under any national implementation thereof, including any amended or successor version of such directive); and 
+ vii. other similar, equivalent or corresponding rights throughout the world based on applicable law or treaty, and any national implementations thereof. 
+2. Waiver. To the greatest extent permitted by, but not in contravention of, applicable law, Affirmer hereby overtly, fully, permanently, irrevocably and unconditionally waives, abandons, and surrenders all of Affirmer's Copyright and Related Rights and associated claims and causes of action, whether now known or unknown (including existing as well as future claims and causes of action), in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each member of the public at large and to the detriment of Affirmer's heirs and successors, fully intending that such Waiver shall not be subject to revocation, rescission, cancellation, termination, or any other legal or equitable action to disrupt the quiet enjoyment of the Work by the public as contemplated by Affirmer's express Statement of Purpose. 
+3. Public License Fallback. Should any part of the Waiver for any reason be judged legally invalid or ineffective under applicable law, then the Waiver shall be preserved to the maximum extent permitted taking into account Affirmer's express Statement of Purpose. In addition, to the extent the Waiver is so judged Affirmer hereby grants to each affected person a royalty-free, non transferable, non sublicensable, non exclusive, irrevocable and unconditional license to exercise Affirmer's Copyright and Related Rights in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the "License"). The License shall be deemed effective as of the date CC0 was applied by Affirmer to the Work. Should any part of the License for any reason be judged legally invalid or ineffective under applicable law, such partial invalidity or ineffectiveness shall not invalidate the remainder of the License, and in such case Affirmer hereby affirms that he or she will not (i) exercise any of his or her remaining Copyright and Related Rights in the Work or (ii) assert any associated claims and causes of action with respect to the Work, in either case contrary to Affirmer's express Statement of Purpose. 
+4. Limitations and Disclaimers. 
+ a. No trademark or patent rights held by Affirmer are waived, abandoned, surrendered, licensed or otherwise affected by this document. 
+ b. Affirmer offers the Work as-is and makes no representations or warranties of any kind concerning the Work, express, implied, statutory or otherwise, including without limitation warranties of title, merchantability, fitness for a particular purpose, non infringement, or the absence of latent or other defects, accuracy, or the present or absence of errors, whether or not discoverable, all to the greatest extent permissible under applicable law. 
+ c. Affirmer disclaims responsibility for clearing rights of other persons that may apply to the Work or any use thereof, including without limitation any person's Copyright and Related Rights in the Work. Further, Affirmer disclaims responsibility for obtaining any necessary consents, permissions or other rights required for any use of the Work. 
+ d. Affirmer understands and acknowledges that Creative Commons is not a party to this document and has no duty or obligation with respect to this CC0 or use of the Work.</spdx:licenseText>
+        <rdfs:seeAlso>http://creativecommons.org/publicdomain/zero/1.0/legalcode</rdfs:seeAlso>
+        <spdx:name>Creative Commons Zero v1.0 Universal</spdx:name>
+        <spdx:licenseId>CC0-1.0</spdx:licenseId>
+      </spdx:License>
+    </spdx:dataLicense>
+    <spdx:relationship>
+      <spdx:Relationship>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_describes"/>
+        <spdx:relatedSpdxElement>
+          <spdx:Package rdf:about="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_2_1">
+            <spdx:name>LIB_2_1</spdx:name>
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_2_1-File1">
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:checksumValue>c2b4e1c67a2d28fced849ee1bb7217391b93f111</spdx:checksumValue>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+                <spdx:copyrightText>Copyright 2017 Thomas Ascher</spdx:copyrightText>
+                <spdx:licenseInfoInFile>
+                  <spdx:License rdf:about="http://spdx.org/licenses/BSD-2-Clause-FreeBSD">
+                    <spdx:standardLicenseHeader>
+        &lt;p xmlns="http://www.w3.org/1999/xhtml" style="font-style: italic"&gt;There is no standard license header for the license&lt;/p&gt;
+        
+      ^^http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral</spdx:standardLicenseHeader>
+                    <spdx:licenseId>BSD-2-Clause-FreeBSD</spdx:licenseId>
+                    <spdx:name>BSD 2-clause FreeBSD License</spdx:name>
+                    <spdx:licenseText>The FreeBSD Copyright 
+Copyright 1992-2012 The FreeBSD Project. All rights reserved. 
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 
+THIS SOFTWARE IS PROVIDED BY THE FREEBSD PROJECT ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE FREEBSD PROJECT OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+The views and conclusions contained in the software and documentation are those of the authors and should not be interpreted as representing official policies, either expressed or implied, of the FreeBSD Project.</spdx:licenseText>
+                    <rdfs:seeAlso>http://www.freebsd.org/copyright/freebsd-license.html</rdfs:seeAlso>
+                  </spdx:License>
+                </spdx:licenseInfoInFile>
+                <spdx:licenseConcluded rdf:resource="http://spdx.org/licenses/BSD-2-Clause-FreeBSD"/>
+                <spdx:fileName>./lib21.rb</spdx:fileName>
+              </spdx:File>
+            </spdx:hasFile>
+            <spdx:packageFileName>LIB_2_1.zip</spdx:packageFileName>
+            <spdx:filesAnalyzed>true</spdx:filesAnalyzed>
+            <spdx:versionInfo>1.0</spdx:versionInfo>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/licenses/BSD-2-Clause-FreeBSD"/>
+            <spdx:packageVerificationCode>
+              <spdx:PackageVerificationCode>
+                <spdx:packageVerificationCodeValue>d6a770ba38583ed4bb4525bd96e50461655d2721</spdx:packageVerificationCodeValue>
+              </spdx:PackageVerificationCode>
+            </spdx:packageVerificationCode>
+            <spdx:relationship>
+              <spdx:Relationship>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement rdf:resource="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_2_1-File1"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:downloadLocation>http://ascher.org/LIB_2_1.zip</spdx:downloadLocation>
+            <spdx:copyrightText>Copyright 2017 Thomas Ascher</spdx:copyrightText>
+            <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/BSD-2-Clause-FreeBSD"/>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue>85ed0817af83a24ad8da68c2b5094de698339821</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseDeclared rdf:resource="http://spdx.org/licenses/BSD-2-Clause-FreeBSD"/>
+          </spdx:Package>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:name>Correct-Test</spdx:name>
+    <rdfs:comment>Correct licensing test dataset.</rdfs:comment>
+    <spdx:relationship>
+      <spdx:Relationship>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_describes"/>
+        <spdx:relatedSpdxElement>
+          <spdx:Package rdf:about="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_2">
+            <spdx:packageFileName>LIB_2.zip</spdx:packageFileName>
+            <spdx:checksum>
+              <spdx:Checksum>
+                <spdx:checksumValue>85ed0817af83a24ad8da68c2b5094de698339802</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>Copyright 2017 Thomas Ascher</spdx:copyrightText>
+            <spdx:relationship>
+              <spdx:Relationship>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_2-File2">
+                    <spdx:relationship>
+                      <spdx:Relationship>
+                        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_staticLink"/>
+                        <spdx:relatedSpdxElement>
+                          <spdx:Package rdf:about="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_2_2">
+                            <spdx:filesAnalyzed>false</spdx:filesAnalyzed>
+                            <spdx:versionInfo>1.0</spdx:versionInfo>
+                            <spdx:packageFileName>LIB_2_2.zip</spdx:packageFileName>
+                            <spdx:downloadLocation>http://ascher.org/LIB_2_2.zip</spdx:downloadLocation>
+                            <spdx:checksum>
+                              <spdx:Checksum rdf:nodeID="A0">
+                                <spdx:checksumValue>85ed0817af83a24ad8da68c2b5094de69833983c</spdx:checksumValue>
+                                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                              </spdx:Checksum>
+                            </spdx:checksum>
+                            <spdx:licenseDeclared>
+                              <spdx:License rdf:about="http://spdx.org/licenses/MIT">
+                                <spdx:standardLicenseHeader>
+        &lt;p xmlns="http://www.w3.org/1999/xhtml" style="font-style: italic"&gt;There is no standard license header for the license&lt;/p&gt;
+        
+      ^^http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral</spdx:standardLicenseHeader>
+                                <spdx:name>MIT License</spdx:name>
+                                <spdx:licenseId>MIT</spdx:licenseId>
+                                <spdx:isOsiApproved>true</spdx:isOsiApproved>
+                                <spdx:licenseText>MIT License 
+Copyright (c) &lt;year&gt; &lt;copyright holders&gt; 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: 
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</spdx:licenseText>
+                                <rdfs:seeAlso>http://www.opensource.org/licenses/MIT</rdfs:seeAlso>
+                              </spdx:License>
+                            </spdx:licenseDeclared>
+                            <spdx:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+                            <spdx:name>LIB_2_2</spdx:name>
+                          </spdx:Package>
+                        </spdx:relatedSpdxElement>
+                      </spdx:Relationship>
+                    </spdx:relationship>
+                    <spdx:checksum>
+                      <spdx:Checksum>
+                        <spdx:checksumValue>c2b3e1c67a2d23fced849ee1bb7217391b93f118</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_application"/>
+                    <spdx:copyrightText>Copyright 2017 Thomas Ascher</spdx:copyrightText>
+                    <spdx:licenseInfoInFile>
+                      <spdx:OrLaterOperator>
+                        <spdx:member>
+                          <spdx:License rdf:about="http://spdx.org/licenses/LGPL-3.0">
+                            <spdx:standardLicenseHeader>
+        &lt;p xmlns="http://www.w3.org/1999/xhtml" style="font-style: italic"&gt;There is no standard license header for the license&lt;/p&gt;
+        
+      ^^http://www.w3.org/1999/02/22-rdf-syntax-ns#XMLLiteral</spdx:standardLicenseHeader>
+                            <rdfs:seeAlso>http://www.opensource.org/licenses/LGPL-3.0</rdfs:seeAlso>
+                            <spdx:licenseId>LGPL-3.0</spdx:licenseId>
+                            <spdx:isOsiApproved>true</spdx:isOsiApproved>
+                            <spdx:name>GNU Lesser General Public License v3.0 only</spdx:name>
+                            <spdx:licenseText>GNU LESSER GENERAL PUBLIC LICENSE 
+ Version 3, 29 June 2007 
+Copyright (C) 2007 Free Software Foundation, Inc. &lt;http://fsf.org/&gt; 
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed. 
+This version of the GNU Lesser General Public License incorporates the terms and conditions of version 3 of the GNU General Public License, supplemented by the additional permissions listed below. 
+0. Additional Definitions. 
+As used herein, "this License" refers to version 3 of the GNU Lesser General Public License, and the "GNU GPL" refers to version 3 of the GNU General Public License. 
+"The Library" refers to a covered work governed by this License, other than an Application or a Combined Work as defined below. 
+An "Application" is any work that makes use of an interface provided by the Library, but which is not otherwise based on the Library. Defining a subclass of a class defined by the Library is deemed a mode of using an interface provided by the Library. 
+A "Combined Work" is a work produced by combining or linking an Application with the Library. The particular version of the Library with which the Combined Work was made is also called the "Linked Version". 
+The "Minimal Corresponding Source" for a Combined Work means the Corresponding Source for the Combined Work, excluding any source code for portions of the Combined Work that, considered in isolation, are based on the Application, and not on the Linked Version. 
+The "Corresponding Application Code" for a Combined Work means the object code and/or source code for the Application, including any data and utility programs needed for reproducing the Combined Work from the Application, but excluding the System Libraries of the Combined Work. 
+1. Exception to Section 3 of the GNU GPL. 
+ You may convey a covered work under sections 3 and 4 of this License without being bound by section 3 of the GNU GPL. 
+2. Conveying Modified Versions. 
+ If you modify a copy of the Library, and, in your modifications, a facility refers to a function or data to be supplied by an Application that uses the facility (other than as an argument passed when the facility is invoked), then you may convey a copy of the modified version: 
+ a) under this License, provided that you make a good faith effort to ensure that, in the event an Application does not supply the function or data, the facility still operates, and performs whatever part of its purpose remains meaningful, or 
+ b) under the GNU GPL, with none of the additional permissions of this License applicable to that copy. 
+3. Object Code Incorporating Material from Library Header Files. 
+ The object code form of an Application may incorporate material from a header file that is part of the Library. You may convey such object code under terms of your choice, provided that, if the incorporated material is not limited to numerical parameters, data structure layouts and accessors, or small macros, inline functions and templates (ten or fewer lines in length), you do both of the following: 
+ a) Give prominent notice with each copy of the object code that the Library is used in it and that the Library and its use are covered by this License. 
+ b) Accompany the object code with a copy of the GNU GPL and this license document. 
+4. Combined Works. 
+ You may convey a Combined Work under terms of your choice that, taken together, effectively do not restrict modification of the portions of the Library contained in the Combined Work and reverse engineering for debugging such modifications, if you also do each of the following: 
+ a) Give prominent notice with each copy of the Combined Work that the Library is used in it and that the Library and its use are covered by this License. 
+ b) Accompany the Combined Work with a copy of the GNU GPL and this license document. 
+ c) For a Combined Work that displays copyright notices during execution, include the copyright notice for the Library among these notices, as well as a reference directing the user to the copies of the GNU GPL and this license document. 
+ d) Do one of the following: 
+ 0) Convey the Minimal Corresponding Source under the terms of this License, and the Corresponding Application Code in a form suitable for, and under terms that permit, the user to recombine or relink the Application with a modified version of the Linked Version to produce a modified Combined Work, in the manner specified by section 6 of the GNU GPL for conveying Corresponding Source. 
+ 1) Use a suitable shared library mechanism for linking with the Library. A suitable mechanism is one that (a) uses at run time a copy of the Library already present on the user's computer system, and (b) will operate properly with a modified version of the Library that is interface-compatible with the Linked Version. 
+ e) Provide Installation Information, but only if you would otherwise be required to provide such information under section 6 of the GNU GPL, and only to the extent that such information is necessary to install and execute a modified version of the Combined Work produced by recombining or relinking the Application with a modified version of the Linked Version. (If you use option 4d0, the Installation Information must accompany the Minimal Corresponding Source and Corresponding Application Code. If you use option 4d1, you must provide the Installation Information in the manner specified by section 6 of the GNU GPL for conveying Corresponding Source.) 
+5. Combined Libraries. 
+ You may place library facilities that are a work based on the Library side by side in a single library together with other library facilities that are not Applications and are not covered by this License, and convey such a combined library under terms of your choice, if you do both of the following: 
+ a) Accompany the combined library with a copy of the same work based on the Library, uncombined with any other library facilities, conveyed under the terms of this License. 
+ b) Give prominent notice with the combined library that part of it is a work based on the Library, and explaining where to find the accompanying uncombined form of the same work. 
+6. Revised Versions of the GNU Lesser General Public License. 
+ The Free Software Foundation may publish revised and/or new versions of the GNU Lesser General Public License from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns. 
+Each version is given a distinguishing version number. If the Library as you received it specifies that a certain numbered version of the GNU Lesser General Public License "or any later version" applies to it, you have the option of following the terms and conditions either of that published version or of any later version published by the Free Software Foundation. If the Library as you received it does not specify a version number of the GNU Lesser General Public License, you may choose any version of the GNU Lesser General Public License ever published by the Free Software Foundation. 
+If the Library as you received it specifies that a proxy can decide whether future versions of the GNU Lesser General Public License shall 
+ apply, that proxy's public statement of acceptance of any version is permanent authorization for you to choose that version for the Library.</spdx:licenseText>
+                            <rdfs:seeAlso>http://www.gnu.org/licenses/lgpl-3.0-standalone.html</rdfs:seeAlso>
+                          </spdx:License>
+                        </spdx:member>
+                      </spdx:OrLaterOperator>
+                    </spdx:licenseInfoInFile>
+                    <spdx:licenseConcluded>
+                      <spdx:OrLaterOperator>
+                        <spdx:member rdf:resource="http://spdx.org/licenses/LGPL-3.0"/>
+                      </spdx:OrLaterOperator>
+                    </spdx:licenseConcluded>
+                    <spdx:fileName>./lib2.exe</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:hasFile>
+              <spdx:File rdf:about="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_2-File1">
+                <spdx:relationship>
+                  <spdx:Relationship>
+                    <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_dynamicLink"/>
+                    <spdx:relatedSpdxElement rdf:resource="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_2_1"/>
+                  </spdx:Relationship>
+                </spdx:relationship>
+                <spdx:checksum>
+                  <spdx:Checksum>
+                    <spdx:checksumValue>c2b4e1c67a2d23fced849ee1bb7217391b93f111</spdx:checksumValue>
+                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                  </spdx:Checksum>
+                </spdx:checksum>
+                <spdx:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+                <spdx:copyrightText>Copyright 2017 Thomas Ascher</spdx:copyrightText>
+                <spdx:licenseInfoInFile>
+                  <spdx:OrLaterOperator>
+                    <spdx:member rdf:resource="http://spdx.org/licenses/LGPL-3.0"/>
+                  </spdx:OrLaterOperator>
+                </spdx:licenseInfoInFile>
+                <spdx:licenseConcluded>
+                  <spdx:OrLaterOperator>
+                    <spdx:member rdf:resource="http://spdx.org/licenses/LGPL-3.0"/>
+                  </spdx:OrLaterOperator>
+                </spdx:licenseConcluded>
+                <spdx:fileName>./lib2.pl</spdx:fileName>
+              </spdx:File>
+            </spdx:hasFile>
+            <spdx:licenseDeclared>
+              <spdx:OrLaterOperator>
+                <spdx:member rdf:resource="http://spdx.org/licenses/LGPL-3.0"/>
+              </spdx:OrLaterOperator>
+            </spdx:licenseDeclared>
+            <spdx:packageVerificationCode>
+              <spdx:PackageVerificationCode>
+                <spdx:packageVerificationCodeValue>d6a770ba38583ed4bb4525bd96e50461655d2702</spdx:packageVerificationCodeValue>
+              </spdx:PackageVerificationCode>
+            </spdx:packageVerificationCode>
+            <spdx:licenseConcluded>
+              <spdx:OrLaterOperator>
+                <spdx:member rdf:resource="http://spdx.org/licenses/LGPL-3.0"/>
+              </spdx:OrLaterOperator>
+            </spdx:licenseConcluded>
+            <spdx:filesAnalyzed>true</spdx:filesAnalyzed>
+            <spdx:downloadLocation>http://ascher.org/LIB_2.zip</spdx:downloadLocation>
+            <spdx:licenseInfoFromFiles>
+              <spdx:OrLaterOperator>
+                <spdx:member rdf:resource="http://spdx.org/licenses/LGPL-3.0"/>
+              </spdx:OrLaterOperator>
+            </spdx:licenseInfoFromFiles>
+            <spdx:relationship>
+              <spdx:Relationship>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement rdf:resource="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_2-File1"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:name>LIB_2</spdx:name>
+            <spdx:hasFile rdf:resource="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_2-File2"/>
+            <spdx:versionInfo>1.0</spdx:versionInfo>
+          </spdx:Package>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_describes"/>
+        <spdx:relatedSpdxElement>
+          <spdx:Package rdf:about="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-APP">
+            <spdx:filesAnalyzed>true</spdx:filesAnalyzed>
+            <spdx:relationship>
+              <spdx:Relationship>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_staticLink"/>
+                <spdx:relatedSpdxElement rdf:resource="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_2"/>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:licenseInfoFromFiles>
+              <spdx:ExtractedLicensingInfo rdf:about="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#LicenseRef-Proprietary">
+                <spdx:extractedText>Copyright 2017 Thomas Ascher
+This software is proprietary software and may not be used,
+copied, sublicensed or modified without written permission.</spdx:extractedText>
+                <spdx:name>Ashsoft Proprietary Software License</spdx:name>
+                <spdx:licenseId>LicenseRef-Proprietary</spdx:licenseId>
+              </spdx:ExtractedLicensingInfo>
+            </spdx:licenseInfoFromFiles>
+            <spdx:copyrightText>Copyright 2017 Thomas Ascher</spdx:copyrightText>
+            <spdx:relationship>
+              <spdx:Relationship>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-APP-File1">
+                    <spdx:relationship>
+                      <spdx:Relationship>
+                        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_dynamicLink"/>
+                        <spdx:relatedSpdxElement>
+                          <spdx:Package rdf:about="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_1">
+                            <spdx:filesAnalyzed>true</spdx:filesAnalyzed>
+                            <spdx:licenseInfoFromFiles>
+                              <spdx:OrLaterOperator>
+                                <spdx:member rdf:resource="http://spdx.org/licenses/LGPL-3.0"/>
+                              </spdx:OrLaterOperator>
+                            </spdx:licenseInfoFromFiles>
+                            <spdx:downloadLocation>http://ascher.org/LIB_1.zip</spdx:downloadLocation>
+                            <spdx:relationship>
+                              <spdx:Relationship>
+                                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_staticLink"/>
+                                <spdx:relatedSpdxElement>
+                                  <spdx:Package rdf:about="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_1_1">
+                                    <spdx:packageFileName>LIB_1_1.zip</spdx:packageFileName>
+                                    <spdx:versionInfo>1.0</spdx:versionInfo>
+                                    <spdx:hasFile>
+                                      <spdx:File rdf:about="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_1_1-File1">
+                                        <spdx:checksum>
+                                          <spdx:Checksum>
+                                            <spdx:checksumValue
+                                            >c2b4e1c67a2d28fced849ee1bb76e7391b93f111</spdx:checksumValue>
+                                            <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                                          </spdx:Checksum>
+                                        </spdx:checksum>
+                                        <spdx:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_binary"/>
+                                        <spdx:copyrightText>Copyright 2017 Thomas Ascher</spdx:copyrightText>
+                                        <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/BSD-2-Clause-FreeBSD"/>
+                                        <spdx:licenseConcluded rdf:resource="http://spdx.org/licenses/BSD-2-Clause-FreeBSD"/>
+                                        <spdx:fileName>./lib11.dll</spdx:fileName>
+                                      </spdx:File>
+                                    </spdx:hasFile>
+                                    <spdx:downloadLocation>http://ascher.org/LIB_1_1.zip</spdx:downloadLocation>
+                                    <spdx:filesAnalyzed>true</spdx:filesAnalyzed>
+                                    <spdx:checksum>
+                                      <spdx:Checksum>
+                                        <spdx:checksumValue>85ed0817af83a24ad8da68c2b5094de698339811</spdx:checksumValue>
+                                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                                      </spdx:Checksum>
+                                    </spdx:checksum>
+                                    <spdx:name>LIB_1_1</spdx:name>
+                                    <spdx:packageVerificationCode>
+                                      <spdx:PackageVerificationCode>
+                                        <spdx:packageVerificationCodeValue
+                                        >d6a770ba38583ed4bb4525bd96e50461655d2711</spdx:packageVerificationCodeValue>
+                                      </spdx:PackageVerificationCode>
+                                    </spdx:packageVerificationCode>
+                                    <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/BSD-2-Clause-FreeBSD"/>
+                                    <spdx:licenseConcluded rdf:resource="http://spdx.org/licenses/BSD-2-Clause-FreeBSD"/>
+                                    <spdx:copyrightText>Copyright 2017 Thomas Ascher</spdx:copyrightText>
+                                    <spdx:licenseDeclared rdf:resource="http://spdx.org/licenses/BSD-2-Clause-FreeBSD"/>
+                                    <spdx:relationship>
+                                      <spdx:Relationship>
+                                        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                                        <spdx:relatedSpdxElement rdf:resource="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_1_1-File1"/>
+                                      </spdx:Relationship>
+                                    </spdx:relationship>
+                                  </spdx:Package>
+                                </spdx:relatedSpdxElement>
+                              </spdx:Relationship>
+                            </spdx:relationship>
+                            <spdx:licenseDeclared>
+                              <spdx:OrLaterOperator>
+                                <spdx:member rdf:resource="http://spdx.org/licenses/LGPL-3.0"/>
+                              </spdx:OrLaterOperator>
+                            </spdx:licenseDeclared>
+                            <spdx:packageVerificationCode>
+                              <spdx:PackageVerificationCode>
+                                <spdx:packageVerificationCodeValue
+                                >d6a770ba38583ed4bb4525bd96e50461655d2751</spdx:packageVerificationCodeValue>
+                              </spdx:PackageVerificationCode>
+                            </spdx:packageVerificationCode>
+                            <spdx:versionInfo>1.0</spdx:versionInfo>
+                            <spdx:hasFile>
+                              <spdx:File rdf:about="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_1-File1">
+                                <spdx:checksum>
+                                  <spdx:Checksum>
+                                    <spdx:checksumValue>c2b4e1c67a2d28fced849ee1bb76e7391b93f121</spdx:checksumValue>
+                                    <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                                  </spdx:Checksum>
+                                </spdx:checksum>
+                                <spdx:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+                                <spdx:copyrightText>Copyright 2017 Thomas Ascher</spdx:copyrightText>
+                                <spdx:licenseInfoInFile>
+                                  <spdx:OrLaterOperator>
+                                    <spdx:member rdf:resource="http://spdx.org/licenses/LGPL-3.0"/>
+                                  </spdx:OrLaterOperator>
+                                </spdx:licenseInfoInFile>
+                                <spdx:licenseConcluded>
+                                  <spdx:OrLaterOperator>
+                                    <spdx:member rdf:resource="http://spdx.org/licenses/LGPL-3.0"/>
+                                  </spdx:OrLaterOperator>
+                                </spdx:licenseConcluded>
+                                <spdx:fileName>./lib1.c</spdx:fileName>
+                              </spdx:File>
+                            </spdx:hasFile>
+                            <spdx:checksum>
+                              <spdx:Checksum>
+                                <spdx:checksumValue>85ed0817af83a24ad8da68c2b5094de698339831</spdx:checksumValue>
+                                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                              </spdx:Checksum>
+                            </spdx:checksum>
+                            <spdx:copyrightText>Copyright 2017 Thomas Ascher</spdx:copyrightText>
+                            <spdx:relationship>
+                              <spdx:Relationship>
+                                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+                                <spdx:relatedSpdxElement rdf:resource="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_1-File1"/>
+                              </spdx:Relationship>
+                            </spdx:relationship>
+                            <spdx:licenseConcluded>
+                              <spdx:OrLaterOperator>
+                                <spdx:member rdf:resource="http://spdx.org/licenses/LGPL-3.0"/>
+                              </spdx:OrLaterOperator>
+                            </spdx:licenseConcluded>
+                            <spdx:name>LIB_1</spdx:name>
+                            <spdx:packageFileName>LIB_1.zip</spdx:packageFileName>
+                          </spdx:Package>
+                        </spdx:relatedSpdxElement>
+                      </spdx:Relationship>
+                    </spdx:relationship>
+                    <spdx:checksum>
+                      <spdx:Checksum>
+                        <spdx:checksumValue>c2b4e1c67a2d28fced849ee1bb76e7391b93f125</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_application"/>
+                    <spdx:copyrightText>Copyright 2017 Thomas Ascher</spdx:copyrightText>
+                    <spdx:licenseInfoInFile rdf:resource="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#LicenseRef-Proprietary"/>
+                    <spdx:licenseConcluded rdf:resource="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#LicenseRef-Proprietary"/>
+                    <spdx:fileName>./APP</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:licenseDeclared rdf:resource="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#LicenseRef-Proprietary"/>
+            <spdx:relationship>
+              <spdx:Relationship>
+                <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_dynamicLink"/>
+                <spdx:relatedSpdxElement>
+                  <spdx:File rdf:about="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_3">
+                    <spdx:relationship>
+                      <spdx:Relationship>
+                        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_dynamicLink"/>
+                        <spdx:relatedSpdxElement rdf:resource="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_2_2"/>
+                      </spdx:Relationship>
+                    </spdx:relationship>
+                    <spdx:checksum>
+                      <spdx:Checksum>
+                        <spdx:checksumValue>d6a770ba38583ed4bb4525bd96e50461655d2758</spdx:checksumValue>
+                        <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                      </spdx:Checksum>
+                    </spdx:checksum>
+                    <spdx:fileType rdf:resource="http://spdx.org/rdf/terms#fileType_source"/>
+                    <spdx:copyrightText>Copyright 2017 Thomas Ascher</spdx:copyrightText>
+                    <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT"/>
+                    <spdx:licenseConcluded rdf:resource="http://spdx.org/licenses/MIT"/>
+                    <spdx:fileName>LIB_3.py</spdx:fileName>
+                  </spdx:File>
+                </spdx:relatedSpdxElement>
+              </spdx:Relationship>
+            </spdx:relationship>
+            <spdx:versionInfo>1.0</spdx:versionInfo>
+            <spdx:packageFileName>APP.zip</spdx:packageFileName>
+            <spdx:packageVerificationCode>
+              <spdx:PackageVerificationCode>
+                <spdx:packageVerificationCodeValue>d6a770ba38583ed4bb4525bd96e50461655d2758</spdx:packageVerificationCodeValue>
+              </spdx:PackageVerificationCode>
+            </spdx:packageVerificationCode>
+            <spdx:licenseConcluded rdf:resource="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#LicenseRef-Proprietary"/>
+            <spdx:checksum rdf:nodeID="A0"/>
+            <spdx:downloadLocation>http://ascher.org/APP.zip</spdx:downloadLocation>
+            <spdx:name>APP</spdx:name>
+            <spdx:hasFile rdf:resource="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-APP-File1"/>
+          </spdx:Package>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:specVersion>SPDX-2.1</spdx:specVersion>
+    <spdx:relationship>
+      <spdx:Relationship>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_describes"/>
+        <spdx:relatedSpdxElement rdf:resource="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_3"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:hasExtractedLicensingInfo rdf:resource="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#LicenseRef-Proprietary"/>
+    <spdx:relationship>
+      <spdx:Relationship>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_describes"/>
+        <spdx:relatedSpdxElement rdf:resource="http://ascher.org/correct-test-444504E0-4F89-41D3-9A0C-0305E82C3301#SPDXRef-LIB_1"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:creationInfo>
+      <spdx:CreationInfo>
+        <spdx:licenseListVersion>2.2</spdx:licenseListVersion>
+        <spdx:created>2017-03-26T14:00:00Z</spdx:created>
+        <spdx:creator>Person: Thomas Ascher</spdx:creator>
+      </spdx:CreationInfo>
+    </spdx:creationInfo>
+  </spdx:SpdxDocument>
+</rdf:RDF>
