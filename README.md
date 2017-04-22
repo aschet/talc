@@ -1,7 +1,6 @@
 # TALC: Tool Assisted License Compliance
 
-TALC is a prototype of a license compliance system which was written as part of my master thesis. It takes SPDX files in the RDF format as input and creates a compliance report. During its analysis phase TALC tries to recover a module dependency graph based on STATIC_LINK and DYNAMIC_LINK relationshipts and connects each module with software connector [1]. The recovered dependency graph is then used to determine the license compatibility between all licenses in a module and all licenses which are accumulated through the software connectors. For license compatibility analysis a license compatibility graph [2], which implementation was incorporated from the 
-[SPDX License Compatibility RESTful Service](https://github.com/dpasch01/spdx-compat-tools), is used.
+TALC is a prototype of a license compliance system which was written as part of my master thesis. It takes SPDX files in the RDF format as input and creates a compliance report. During its analysis phase TALC tries to recover a module dependency graph based on STATIC_LINK and DYNAMIC_LINK relationshipts and connects each module with a software connector [1]. The recovered dependency graph is then used to determine the license compatibility between all licenses in a module and all licenses which are accumulated through the software connectors. For license compatibility analysis a license compatibility graph [2], which implementation was incorporated from the [SPDX License Compatibility RESTful Service](https://github.com/dpasch01/spdx-compat-tools), is used.
 
 Based on the expirence gained by implementing this prototype the following libraries were created:
 - [spdx-license-expression-tools](https://github.com/aschet/spdx-license-expression-tools)
